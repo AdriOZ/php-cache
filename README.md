@@ -48,7 +48,7 @@ isset($cache['foo_txt']);   # False
 ### Getting the data
 ```php
 echo $cache['foo_number'];  # 3000
-echo $cache['foo_text];     # 'This is stored as text'
+echo $cache['foo_text'];     # 'This is stored as text'
 ```
 
 ### Removing data
